@@ -11,7 +11,7 @@ _Editing:_
 
 [](link)
 
-New year, same names. Have you ever thought that you hear the same names when it comes to nominated directors for the Academy Award? The analyis shows that this is exactly the case. 
+New year, same names. Ever had the feeling that it is always the same people when it comes to nominated directors for the Academy Award? The analyis shows that this is exactly the case. 
 
 
 # Data
