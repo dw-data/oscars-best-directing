@@ -21,8 +21,8 @@ New year, same names. Ever had the feeling that it is always the same people whe
 | --- | --- | --- |
 | Overview nominations in best directing category| Academy Awards Database| [Data]()  |
 | Winning directors & genre of the movie| Academy Awards Database | [Data]() |
-| Nationalities  | [Excel]() |
-| Age of winning directors  | Scraped | [Excel]() |
+| Age of winning directors  | Several Websites | [Python Notebook]() |
+| Characteristics of Winners  | Scraped from several Websites (e.g Imdb) | [Excel]() |
 
 # Analysis
 
@@ -32,9 +32,4 @@ To show the unequal distribution of nominations, a bar chart with an explanatory
 
 ![](Graphics/221024_Gas_LNG_Stand_EN.png)
 
-### The average winning director
-
-To show that the group of directors is very homogenous, an illustration was created. 
-
-![](Graphics/404_en_LNG_capacity.png)
 
