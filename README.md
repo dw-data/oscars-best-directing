@@ -5,7 +5,7 @@ _Research, data analysis and data visualization:_ Julia Merk
 
 _Writing:_ Julia Merk
 
-_Editing:_  
+_Editing:_ Rayna Breuer 
 
 **Read the full article on DW.com.**
 
