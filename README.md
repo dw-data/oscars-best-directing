@@ -19,7 +19,7 @@ New year, same names. Did you ever have the feeling that it is always the same p
 
 | **Data** | **Source** | **Link** |
 | --- | --- | --- |
-| Nominations "Best directing" (1929 – 2023)| Official Academy Awards Database| [Data]()  |
+| Overview and distribution of nominations "Best directing" (1929–2023)| Official Academy Awards Database| [Data and Analysis](https://github.com/dw-data/oscars-best-directing/blob/2405811e5fcba0268977a2a932b8d0ed049d6d94/nominees-distribution-analysis.xlsx) |
 | Winning directors| Official Academy Awards Database | [Data]() |
 | Age of winning directors | Several Websites | [Python Notebook]() |
 | Characteristics of winners  | Scraped from several Websites (e.g Imdb) | [Excel]() |
