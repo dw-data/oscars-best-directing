@@ -4,7 +4,9 @@ _Idea:_ Julia Merk
 _Research, data analysis and data visualization:_ Julia Merk
 
 _Writing:_ Julia Merk
+
 _Additional Writing EN Version:_ Shlomit Lasky
+
 _Additional Writing DE Version:_ Torsten Landsberg
 
 _Editing:_ Rayna Breuer 
