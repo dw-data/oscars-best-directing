@@ -21,5 +21,5 @@ New year, same names. Did you ever have the feeling that it is always the same p
 | --- | --- | --- | --- |
 | Overview nominees and winners (1929–2021) | Official Academy Awards Database | [Database](https://awardsdatabase.oscars.org/) | |
 | Overview and distribution of nominations "Best directing" (1929–2023)| Official Academy Awards Database| [Data and Analysis](https://github.com/dw-data/oscars-best-directing/blob/2405811e5fcba0268977a2a932b8d0ed049d6d94/nominees-distribution-analysis.xlsx) | |
-| Age of winning directors | Several Websites | [Python Notebook](https://github.com/dw-data/oscars-best-directing/blob/0e4f0b85a3d46aa718ae8b45a2698379d4b61516/winners-age.ipynb) | [Analysis](https://github.com/dw-data/oscars-best-directing/blob/fa8e27d6638e3d1630e512bae6479b51d6640dc7/winners-age-analysis.xlsx) |
+| Age of winning directors | Several Websites | [Python Notebook](https://github.com/dw-data/oscars-best-directing/blob/037b1e90b0ce75a5c17531ca30de1018d7b420d0/calculation-winners-age.ipynb) | [Analysis](https://github.com/dw-data/oscars-best-directing/blob/fa8e27d6638e3d1630e512bae6479b51d6640dc7/winners-age-analysis.xlsx) |
 | Characteristics of winners | Scraped from several Websites (mainly IMDb) | [Data and Analysis](https://github.com/dw-data/oscars-best-directing/blob/0e4f0b85a3d46aa718ae8b45a2698379d4b61516/winners-characteristics.xlsx) |
