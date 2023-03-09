@@ -25,7 +25,7 @@ New year, same names. Did you ever have the feeling that it is always the same p
 | Characteristics of winners | Scraped from several Websites (e.g Imdb) | [Data and Analysis](https://github.com/dw-data/oscars-best-directing/blob/0e4f0b85a3d46aa718ae8b45a2698379d4b61516/winners-characteristics.xlsx) |
 
 
-# Analysis
+# Chart
 
 ### Distribution of nominations 
 
