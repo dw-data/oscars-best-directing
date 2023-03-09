@@ -7,7 +7,7 @@ _Writing:_ Julia Merk
 
 _Editing:_  
 
-**Read the full article on DW.com:**
+**Read the full article on DW.com.**
 
 [](link)
 
@@ -23,14 +23,3 @@ New year, same names. Did you ever have the feeling that it is always the same p
 | Overview and distribution of nominations "Best directing" (1929–2023)| Official Academy Awards Database| [Data and Analysis](https://github.com/dw-data/oscars-best-directing/blob/2405811e5fcba0268977a2a932b8d0ed049d6d94/nominees-distribution-analysis.xlsx) | |
 | Age of winning directors | Several Websites | [Python Notebook](https://github.com/dw-data/oscars-best-directing/blob/0e4f0b85a3d46aa718ae8b45a2698379d4b61516/winners-age.ipynb) | [Analysis](https://github.com/dw-data/oscars-best-directing/blob/0e4f0b85a3d46aa718ae8b45a2698379d4b61516/winners-age-analyis.xlsx) |
 | Characteristics of winners | Scraped from several Websites (e.g Imdb) | [Data and Analysis](https://github.com/dw-data/oscars-best-directing/blob/0e4f0b85a3d46aa718ae8b45a2698379d4b61516/winners-characteristics.xlsx) |
-
-
-# Chart
-
-### Distribution of nominations 
-
-To show the unequal distribution of nominations, a bar chart with an explanatory sentence was created. 
-
-![](Graphics/221024_Gas_LNG_Stand_EN.png)
-
-
