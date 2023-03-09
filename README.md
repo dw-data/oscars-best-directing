@@ -1,4 +1,4 @@
-# Best directing award
+# Best directing award – Oscars 2023
 _Idea:_ Julia Merk
 
 _Research, data analysis and data visualization:_ Julia Merk
