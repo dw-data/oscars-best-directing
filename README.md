@@ -11,7 +11,7 @@ _Additional Writing DE Version:_ Torsten Landsberg
 
 _Editing:_ Rayna Breuer 
 
-**Read the full article on DW.com.**
+**[Read the full article on DW.com.](https://www.dw.com/en/best-director-oscar-category-all-male-yet-again/a-64942437)**
 
 [](link)
 
