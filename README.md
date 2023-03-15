@@ -5,9 +5,9 @@ _Research, data analysis and data visualization:_ Julia Merk
 
 _Writing:_ Julia Merk
 
-_Additional Writing EN Version:_ Shlomit Lasky
+_Additional Writing EN Version:_ Elizabeth Grenier
 
-_Additional Writing DE Version:_ Torsten Landsberg
+_Additional Writing DE Version:_ Elizabeth Grenier
 
 _Editing:_ Rayna Breuer 
 
